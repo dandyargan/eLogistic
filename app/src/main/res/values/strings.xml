@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">eLogistic</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_pencarian">Pencarian</string>
+    <string name="nav_item_pembayaran">Pembayaran</string>
+    <string name="nav_item_penawaran">Penawaran</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_pencarian</item>
+        <item>@string/nav_item_pembayaran</item>
+        <item>@string/nav_item_penawaran</item>
+    </string-array>
+
+    <string name="title_pencarian">Pencarian</string>
+    <string name="title_pembayaran">Pembayaran</string>
+    <string name="title_penawaran">Penawaran</string>
+
+    <string name="status_pengiriman">STATUS PENGIRIMAN</string>
+    <string name="jadwal_pengiriman">JADWAL PENGIRIMAN</string>
+</resources>
